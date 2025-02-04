@@ -24,7 +24,7 @@ while True:
 
     print("-" * 30)
     print(f"Your move: {moves[user_move]}")
-    print(f"Your move: {moves[ai_move]}")
+    print(f"AI move: {moves[ai_move]}")
     print("\n")
 
     # Check moves
